@@ -17,7 +17,7 @@ public class gamemanager : MonoBehaviourPunCallbacks
     public TextMeshProUGUI countdowntextingameM;
     public TextMeshProUGUI countdowntextingameG;
     public Transform imagesparent;
-    public Transform mimicimage;
+    
     public TextMeshProUGUI title;
     public GameObject nextbutton;
     public GameObject mimickscreen;
