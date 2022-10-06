@@ -12,15 +12,7 @@ using UnityEngine.UI;
 
 public class gamemanager : MonoBehaviourPunCallbacks
 {
-    int currCountdownValue;
-    public TextMeshProUGUI countdowntext;
-    public TextMeshProUGUI countdowntextingameM;
-    public TextMeshProUGUI countdowntextingameG;
-    public Transform imagesparent;
-    
-    public TextMeshProUGUI title;
-    public GameObject nextbutton;
-    public GameObject mimickscreen;
+ 
     public GameObject guessscreen;
     public GameObject scorescreen;
     public GameObject winnerscreen;
